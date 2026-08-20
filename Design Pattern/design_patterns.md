@@ -47,7 +47,13 @@ Command Pattern:
 
 Adapter Design Pattern: 
 - Interface b/w 3rd party code and our own class. 
-- use case: 
+- use case: talk to external services. 
+
+Facade Design Pattern: 
+- Interface for client to interac should be one, follows least knowledge principle.
+- different than adapter as facade is for client side logic hiding.
+
+
 ---
 
 
