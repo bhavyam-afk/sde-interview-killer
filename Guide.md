@@ -17,3 +17,4 @@
 ## Close to placements? 
 - DSA Company wise sheet: https://github.com/snehasishroy/leetcode-companywise-interview-questions/blob/master/apple/all.csv
 - Revise CS fundamentals from notes in [CS Fundamentals](<CS Fundamentals>)
+- System Design direct example videos: https://www.youtube.com/watch?v=Y-BO_4XNw8c&list=PLPtUyMfD0mNJDZg50fg2CptjLBavHot47
