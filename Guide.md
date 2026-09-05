@@ -6,7 +6,7 @@
     - OOP: 
     - CN:
 - HLD Basics: https://docs.telusko.com/docs/system-design/introduction
-
+- System Design Roadmap: https://whimsical.com/system-design-roadmap-granular-breakdown-4z8iCN8hX9u1xpXDQPrAu1
 
 
 ## Next Step to preparation?
