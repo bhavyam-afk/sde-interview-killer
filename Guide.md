@@ -1,3 +1,11 @@
+## How to use this repo for most output? 
+This has all the things one needs to cover for SDE interviews but this was made while I was preparing and notes / resources are made how I like them to be but one can have different abilities to understand and grasp topics. 
+So try to put notes on AI tools like GPT or Claude and get detailed view on them, spend time and go to core of the concepts rather than simply remembering things, be logical, don't rush to complete things, keep a check on what interviewers are asking more in your time of preparation as process are changing drastically. 
+
+Keep in mind that even if you start from a small company you have to aim big and prepare according to keeping future in mind. Not every interviewer can understand your thoughts don't panic if you fail 2-3 interviews, you will eventually be at place what you deserve. 
+
+BEST OF LUCK ❤️
+
 ## Doing for the first time?
 - DSA: https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z
 - CS Fundamentals: 
